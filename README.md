@@ -1,6 +1,6 @@
 # CloudResumeChallenge
 Showcasing my AWS skills using the Cloud Resume Challenge : https://mehdi-kachouri-resume-website.net/
-# Progrès Réalisés dans le Défi Cloud Resume
+# Progrès réalisés dans le défi Cloud Resume
 
 ## Étape 1 : HTML et CSS
 
